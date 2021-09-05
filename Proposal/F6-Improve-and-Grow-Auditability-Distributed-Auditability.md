@@ -20,5 +20,8 @@ Automate funded proposal reporting.
 
 Stephen has 30 years' experience in organizing academic, community and business projects.
 
+### Website/GitHub repository (not required)
+https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-6-auditability-proposal-distributed-auditability
+
 
 
