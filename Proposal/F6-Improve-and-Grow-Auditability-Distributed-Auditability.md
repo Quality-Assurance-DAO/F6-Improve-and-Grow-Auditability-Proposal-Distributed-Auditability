@@ -16,4 +16,9 @@ Incentivize and ease evaluation
 
 Automate funded proposal reporting.
 
+### Relevant experience
+
+Stephen has 30 years' experience in organizing academic, community and business projects.
+
+
 
