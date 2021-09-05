@@ -71,6 +71,14 @@ Building on prototypes from Phase 0 specific auditing workflows will be automate
 
 Budget TBA - set randomly at 2000 at present.
 
+#### Requested funds in USD 
+
+2000
+
+
+#### Which of these definitions apply to you? Developer, Teacher, Other/Prefer not to say
+
+
 
 
 
