@@ -29,6 +29,16 @@ https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-6
 
 At its heart Project Catalyst is an experiment to develop distributed governance for the Cardano blockchain. So, meeting the challenge to improve and grow auditability requires a distributed approach. An effective and equitable distribution of auditability will require connections between the funded proposer and the community to be established, the communal development of transparent audit methods and constant iteration. 
 
+#### Relevant experience (identifying information)
+
+Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm.
+
+In Fund 5 of Project Catalyst Stephen's QA-DAO (https://stephen-rowan.gitbook.io/quality-assurance-dao/) submitted a proposal "Quality Assurance DAO" in the Developer Ecosystem Challenge that was funded in August 2021.
+
+Stephen provides support to Catalyst Swarm by documenting and tracking it's activities. This has been done continuously since 7th July 2021 by raising GitHub issues that track Core Swarm Activities such as meetings, After Town Halls, events (Idea Fest) and Saturday Swarm Sessions. The evolution of the governance of Catalyst Swarm is documented and updated here - https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/governance/overview .
+
+​https://www.linkedin.com/in/stephen-whitenstall-166727210
+
 #### Roadmap
 
 #### The present – Fund 5 QA-DAO proposal and community collaborations.
