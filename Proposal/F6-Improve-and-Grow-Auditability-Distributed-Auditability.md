@@ -25,11 +25,9 @@ https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-6
 
 ### Detailed plan (not required) - Fill in here any additional details
 
-#### DRAFT -Build an automated distributed auditability system.
+#### Build an automated distributed auditability system.
 
-At its heart Project Catalyst is an experiment to develop distributed governance for the Cardano blockchain. So, meeting the challenge to improve and grow auditability requires a distributed approach. An effective and equitable distribution of auditability will require connections between the funded proposer and the community to be established, the communal development of transparent audit methods and constant iteration.
-
- 
+At its heart Project Catalyst is an experiment to develop distributed governance for the Cardano blockchain. So, meeting the challenge to improve and grow auditability requires a distributed approach. An effective and equitable distribution of auditability will require connections between the funded proposer and the community to be established, the communal development of transparent audit methods and constant iteration. 
 
 #### Roadmap
 
