@@ -63,6 +63,8 @@ In Fund 5 of Project Catalyst Stephen's QA-DAO (https://stephen-rowan.gitbook.io
 
 Stephen provides support to Catalyst Swarm by documenting and tracking it's activities. This has been done continuously since 7th July 2021 by raising GitHub issues that track Core Swarm Activities such as meetings, After Town Halls, events (Idea Fest) and Saturday Swarm Sessions. The evolution of the governance of Catalyst Swarm is documented and updated here - https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/governance/overview .
 
+You can support the activities of QA-DAO by becoming a GitHub sponsor https://github.com/sponsors/Quality-Assurance-DAO .
+
 https://www.linkedin.com/in/stephen-whitenstall-166727210
 
 ---------------------------------------------------------------------------------------------------------
