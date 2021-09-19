@@ -262,6 +262,15 @@ Based on the information provided , I score 2
 2
 
 
+#### Flagged
+
+The CA has misunderstood the scoring criteria and assessment guidelines in the Auditability Note. Misunderstands Key Metric to measure.
+
+Metric 1 refers to “using the automated auditability workflow tools” NOT whether funded proposals are tracked on Ideascale.
+
+Metric 2 – “Number of commits in funded proposal repositories” is indicative NOT exclusive. Other metrics can be used to measure performance.
+
+
 ### z_assessor_434
 
 
