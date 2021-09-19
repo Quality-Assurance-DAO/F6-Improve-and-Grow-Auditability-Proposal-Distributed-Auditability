@@ -413,3 +413,31 @@ No
 #### Auditability Rating
 
 5
+
+### z_assessor_517
+
+
+#### Impact / Alignment Note
+
+This challenge works to develop automated and standardized tools for auditing future projects, directly answering the challenge.
+
+#### Impact / Alignment Rating
+
+4
+
+#### Feasibility Note
+
+
+The benchmarks of progress involve studying how other projects are audited and working to extrapolate a standardized protocol. Based on the proposer's experience it seems quite doable for him to implement these steps, including the KPIs.
+
+#### Feasibility Rating
+
+4
+
+#### Auditability Note
+
+The benchmarks of success appear reasonable and relatively clear, with deployments on github laid out at clear time points.
+
+#### Auditability Rating
+
+4
