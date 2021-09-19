@@ -90,5 +90,35 @@ There is limited information on the third goal and thus it is hard to assess. On
 
 3
 
+### z_assessor_298
+
+#### Impact / Alignment Note
+
+"Excelent and simple idea. It will help to standarize the auditability process and give more transparency to it. The proposal is also very clear, with a clear implementation plan (divided into phases and with a schedule) and a scope. the problem is also clear and all the community would benefit from it.
+
+The only thing to be careful here is to give some flexbility to funded proposers, as each project has its own specificity and not to burden them exhausting reports and beurocracy. This standars should be created together with the community, with a proper governance.  The right tool could certainly adress these problem and other proposals, at least in Fund6, contemplates that. Maybe consider working together."
+
+#### Impact / Alignment Rating
+
+5
 
 
+#### Feasibility Note
+
+"Although experienced, Proprosers qualification are not very clear and maybe more than 1 people working on it (2-3 should be good) could be posiive just to give more different points of view on this project, which I think its a must in ideas like this, where you indtend to standarize processess. 
+
+The plan looks fair and budget break is clear. However, it only considers payment for hours but the are extra costs that should be considered as marketing and possible equipment purchase, if necessary."
+
+#### Feasibility Rating
+
+4
+
+#### Auditability Note
+
+"There are a clear roadmap and kpis, however, they have  no targets - which is thge main reason for not getting a 5 stars here.
+
+This project also has some risks on the regard of the acceptance of the standarization method from funded proposers but it is somehow addresed here in the project phases (specially in the workshop and in the collaborative way it seems it will be executed)."
+
+#### Auditability Rating
+
+4
