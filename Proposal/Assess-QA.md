@@ -441,3 +441,34 @@ The benchmarks of success appear reasonable and relatively clear, with deploymen
 #### Auditability Rating
 
 4
+
+### z_assessor_533
+
+#### Impact / Alignment Note
+
+This is a great initiative and very necessary. Auditability and standardized metrics would help tremendously. The one thing that most proposals lack is a clear way to track progress and efficacy.  This proposal would go a very long way to help that shortcoming.
+
+#### Impact / Alignment Rating
+
+5
+
+#### Feasibility Note
+
+"The plan is very well documented. The links and repositories are not very clear and there is no code in the Github as far as I have seen apart from some random config yml files and a few htmls, but that is OK at this stage.
+
+What is a little bit concerning is that the proposer has so many other proposals in Fund 6 but this seems to be a high priority.
+Reading through the comments in this and the last funded project this seems like a genuine and structured approach to achieving QA and traceability.
+I would have liked to see more clear presentation in the proposal of the achievements of the last funded round (although that was a mere $5 so not sure how much one can expect)."
+
+#### Feasibility Rating
+
+4
+
+#### Auditability Note
+
+"A paragon of clarity in the plan and the breakdown of activities, deadlines, etc. to achieve auditability.
+Anything less would of course have been a warning flag to this initiative, but I think it is great."
+
+#### Auditability Rating
+
+5
