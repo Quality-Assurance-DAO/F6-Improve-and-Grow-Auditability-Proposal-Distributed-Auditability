@@ -552,3 +552,32 @@ Very detailed tracking information.
 #### Auditability Rating
 
 5
+
+
+### z_assessor_594
+
+#### Impact / Alignment Note
+
+This a great proposal and one needed to extend further quality assurance in the Catalyst process. The experience is quite extensive and the organization is present for the delivery of its solution. 
+
+
+#### Impact / Alignment Rating
+
+5
+
+#### Feasibility Note
+
+Given the 30 year experience and previous examples of this work being done before I believe the proposal will undoubtedly be implemented successfully. Great roadmap and everything timed down to the details for a transparent delivery.
+
+#### Feasibility Rating
+
+5
+
+#### Auditability Note
+
+The information provided is quite clear and concisely detailed as to what each step will do and how are the funds are used.
+
+
+#### Auditability Rating
+
+5
