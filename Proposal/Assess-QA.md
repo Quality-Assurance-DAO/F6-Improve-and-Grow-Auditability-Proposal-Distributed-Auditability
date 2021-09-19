@@ -293,7 +293,123 @@ Being able to use the tools that they are about to develop would help, if possib
 5
 
 
+### z_assessor_460
 
 
+#### Impact / Alignment Note
+
+"Has the problem needing to be solved been identified and articulated?
+
+Yes.  The problem is clearly stated as 
+There are no common audit standards in funded proposals.There is no consistent evaluation of funded proposals, either in terms of frequency ( 1 evaluation per quarter etc) or quality ( no estbalished standards of tracking and reporting.)
+
+Funded reporting is manual.Each time can do as and when they wish.
+
+Does this proposal fall within the scope of the challenge brief?
+
+Yes. It has to do with Improving Auditablity  by identifying common community standards and building consistent tools. 
+
+Does this proposal show clearly how it will add value to the Cardano System?
+It states that since Cardano is a community, and Catalyst is built to distribute governance for Cardano Blockchain, then it follows that auditability also should be distributed.
+
+Have key metrics and goals of the proposal been stated clearly?
+The goals have been stated clearly. Namely to idenfity common community standards, build consistent evaluation tools and automate reporting.
 
 
+Do the key metrics and goals of the proposal fall within the scope of the challenge
+Yes they do
+
+Can the proposal scale to address future challenges?
+It can provided the tools are designed to scale up and the standards built on a framework allowing scaling.
+
+In summary this more than comprehensively meets the criteria for impact."
+
+#### Impact / Alignment Rating
+
+5
+
+
+#### Feasibility Note
+
+"
+2. FEASIBILITY
+
+Has the proposer provided evidence (references, links, etc.) of relevant skills and experience needed to implement the proposal?
+Yes he has over thirty years of experience. He seems to be doing it himself. 
+
+Are these links sufficient?
+Yes
+
+Have you the CA visited these links and contacted the relevant people?
+Yes 
+
+Have you been able to assess their level of competence?
+Yes the developer seems competent
+
+Does proposer know, in an identifiable manner, the type and number of team members required to implement the proposal?
+No other team members have been listed.
+
+Has he rationally and logically laid out his team structure and breakdown?
+He has laid out his capabilities, but no team has been identified.
+
+Has budget been outlined clearly and broken down into identifiable items?
+Yes budget is clearly laid out into identifiable items.
+
+IS budget reasonable to achieve the set goals?
+It is very reasonable.
+
+
+Has the proposer provided a verifiable plan if additional funding is required to implement the proposal?
+Yes all his workflow can be verified and assessed. 
+Have you verified this plan?
+Yes
+
+Does proposal offer a realistic timetable to complete the work?
+The time table is realistic.
+
+Does the proposal provide a sensible and conductible plan for implementation that shows not only what is being done but also how?
+Yes it shows how each step is to be carried out.
+
+Does the plan describe the resources necessary to implement the proposal?
+Yes it describes needed resources
+
+Does the proposal clearly explain  technical aspects like architecture, language and technologies if they are crucial for implementation?
+Yes the technical aspects are explained.
+
+Has the proposer considered challenges and risks relevant to a successful implementation?
+Challenges and risks have not been identified.
+"
+#### Feasibility Rating
+
+5
+
+#### Auditability Note
+
+"
+3) Auditability
+
+Is there clearly laid out a roadmap with milestones and a time horizon for achievement.
+Yes a roadmap with milestones has been laid out.
+
+Are there clearly defined Metrics/KPIs that define the success of the proposal?
+There are clear metrics
+
+Is there a clear understandable description of the targeted problem?
+Yes it is clearly understood.
+
+Is there a clear understandable solution that addresses the problem?
+The solution has been clearly understood
+
+Has the proposer identified possible hurdles, challenges and difficulties?
+Hurdles have not been mentioned in this document but it is evident the proposer is competent to deal with them.
+
+How does the proposer plan to deal with these difficulties?
+No difficulties have been mentioned
+
+Are there contingency plans in place for various outcomes?
+No
+"
+
+#### Auditability Rating
+
+5
