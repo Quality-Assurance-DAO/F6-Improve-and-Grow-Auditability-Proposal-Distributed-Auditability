@@ -137,4 +137,28 @@ My main issue with the proposal is that it does not clearly indicate the limitat
 
 4
 
+#### Feasibility Note
+
+The team seems to have appropriate expertise in the field, and has clearly defined the goals of the proposal, which is helping funded proposals make their reporting easier and faster. The proposer has a phase 0 which takes place before funding, which means he intends to put in work even before funding gets approved, which increases my confidence that he is committed to the project.
+
+#### Feasibility Rating
+
+5
+
+#### Auditability Note
+
+"The roadmap and time frame is clearly laid out, though the success metrics are hard to evaluate throughout the project - the metrics makes sense once the project has been successfully implemented and is in use.
+There is a clear, sensible breakdown of the costs.
+The proposal doesn't present risks and challenges, however."
+
+#### Auditability Rating
+
+4
+
+
+
+
+
+
+
 
