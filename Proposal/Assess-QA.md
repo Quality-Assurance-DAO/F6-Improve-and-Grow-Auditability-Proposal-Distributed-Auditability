@@ -218,6 +218,51 @@ Given the clear timetable of activities both in terms of the activities which ar
 5
 
 
+### z_assessor_430
+
+#### Impact / Alignment Note
+
+This proposal fit into the challenge but the solution is not clear enough on what will be deliver at the end of the project , The project seem to use 3 month to build continuous Integration with Github Action. I believe the timeframe is too long to build only github action. It appear this is a research project and given that Catalyst funded project comes in all form , The Proposer have not convince me how Github action will improve distributed audibility to the benefit of the ecosystem , for that i score 2   
+
+#### Impact / Alignment Rating
+
+2
+
+
+### Feasibility Note
+
+The experience of the Proposer is great , given that he is currently working on a funded Project of fund 5.  The GitHub profile  provided shows that the proposer has experience in Cardano , There is a road map , a launch date and a budget break down. 
+
+
+### Feasibility Rating
+
+4
+
+#### Auditability Note
+
+"The proposal provided the following Key Metrics to measure
+
+- Number of funded proposals using the automated auditability workflow tools.
+ 
+- Number of commits in funded proposal repositories (Github)
+ 
+- Quality of performance, achievements & financials reports using the tools compared to those not using them.
+
+ - Number of onboarded developers using Continuous Integration
+
+1. The first point is not sufficient to audit this project because the number of funded Proposals is track on the Ideascale and Catalyst Project already.
+2. Number of commits in funded proposal github repo is not also enough because Catalyst project comes in various form , some project does not require any  github repo.
+
+Based on the information provided , I score 2
+
+"
+
+#### Auditability Rating
+
+2
+
+
+
 
 
 
