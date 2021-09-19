@@ -472,3 +472,83 @@ Anything less would of course have been a warning flag to this initiative, but I
 #### Auditability Rating
 
 5
+
+
+### z_assessor_538
+
+#### Impact / Alignment Note
+
+Idea fits the challenge and the standards for auditing could benefit the community a lot since it could improve the auditbility.
+
+#### Impact / Alignment Rating
+
+5
+
+#### Feasibility Note
+
+Team has really done great research in presenting its idea.
+
+#### Feasibility Rating
+
+4
+
+#### Auditability Note
+
+Presented information is well enough for audit and it could be great if team consider fund amount again because it might increase the estimated budget. 
+
+#### Auditability Rating
+
+4
+
+
+### z_assessor_57
+
+#### Impact / Alignment Note
+
+Right from the start, the author of the proposal succinctly and efficiently explains to us the key issues involved in the analysis of proposals approved in the Catalyst project. The lack of a standard in the audit, in addition to the irregularity of such reviews, are really very relevant points, which the author cites from the beginning in his presentation, claiming that he will solve them. It is good that the proposal author builds on a previously successful proposal to chart paths for their project. As I understand it, this model proposal is a so-called QA-DAO (Fund 5 Developer ecosystem). It is interesting that it provides a link to the proposal, so that people who do not know it could have easier and faster access. The impact of this proposal is already identifiable, taking into account that a series of models and forms about the problems of the proposals and activities that involve them are already circulating, through tools such as GitHub Actions. The author conveys security in this information, passing up to the exact date on which these activities began. For this reason, I believe that the proposal dialogues very well with the objectives of the challenge, which are mainly to monitor the progress of financed projects and ensure that these data reach the members of the community. This can be seen clearly in the excerpt: "An auditability workflow will model the working practices of the participants, the metrics they report on, whether this fits into their own documentation, and how they can benefit from automation." If this promise is fulfilled, success with the challenge objectives is certain.
+
+#### Impact / Alignment Rating
+
+5
+
+#### Feasibility Note
+
+Regarding the author's ability to deliver what he promises, we have a satisfactory amount of information about him. We know that he has experience in managing projects, academic, business or community and also some projects he managed, about what they were about and where they happened (some in Catalyst itself). His actions are tracked very accurately, that is, we know what he has been doing, in which part of Catalyst (Town Halls, for example) and since when, with dates. His linkedin profile is also attached, where we can get to know more intimately who Stephen is, what his professional background and other places where he has worked. In this way, a lot of confidence is passed in their ability to carry out the present proposal.
+
+#### Feasibility Rating
+
+5
+
+#### Auditability Note
+
+The author of the proposal provides us with a great deal of information about auditability. We know what will happen, according to phases, and the actions of each phase are very detailed. Furthermore, they are situated in time so that we can know exactly when they will happen. We are also given what the definition of success would be like, how the community can accurately track the progress of the project and whether everything is going as planned. The division of funding money is also extremely detailed, including information even on how many hours each activity will last (a very rare thing to find in the proposal description). Everything is very well explained, from how the project's publicity will happen, through which media channels it will happen, as well as the technical development, through updates on github. For these reasons, I believe the auditability is perfect, there is nothing to criticize. Through the information given, we can have a solid visualization of what will happen, when and for what purpose.
+
+#### Auditability Rating
+
+5
+
+### z_assessor_573
+
+#### Impact / Alignment Note
+
+Important topic, extremely reasonable cost of execution.
+
+#### Impact / Alignment Rating
+
+5
+
+#### Feasibility Note
+
+The level of detail in the proposal implies that yes.
+
+#### Feasibility Rating
+
+5
+
+#### Auditability Note
+
+Very detailed tracking information.
+
+#### Auditability Rating
+
+5
