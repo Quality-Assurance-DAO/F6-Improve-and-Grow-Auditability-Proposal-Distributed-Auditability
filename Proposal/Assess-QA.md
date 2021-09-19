@@ -125,7 +125,6 @@ This project also has some risks on the regard of the acceptance of the standari
 
 ### z_assessor_318
 
-
 #### Impact / Alignment Note
 
 "The proposal suggests an approach which is likely to benefit the current challenge goals. The proposal describes how continuous integration will help make funded proposals more efficient in reporting their goals.  
@@ -154,6 +153,69 @@ The proposal doesn't present risks and challenges, however."
 #### Auditability Rating
 
 4
+
+### z_assessor_361
+
+
+#### Impact / Alignment Note
+
+"The proposal adds value to the Cardano ecosystem in that it would improve the evaluation of funded proposals by identifying common community standards, building consistent evaluation tools, and automating reports on funded proposals.
+It would have a local niche impact on the Cardano ecosystem and there is no ability to scale."
+
+#### Impact / Alignment Rating
+
+3
+
+### Feasibility Note
+
+"
+The likelihood of success is good and the proposer's experience is aligned with the proposal objective.
+The budget is explained clearly and simply. 
+There is a clear and comprehensive timeline."
+
+### Feasibility Rating
+
+5
+
+#### Auditability Note
+
+
+"Delivery dates are clearly defined. 
+Development risks have not been considered.
+It is not clearly stated what programming tools will be used. 
+People can monitor the status of work on the github repository."
+
+#### Auditability Rating
+
+3
+
+
+### z_assessor_404
+
+
+#### Impact / Alignment Note
+
+The proposal is focussed on improving auditability via the creation of a system which increases transparency whilst also enables comparability between reviews of proposals. This will lead to more certainty of the learnings from the reviews. It will also assist better reviews to occur prior to funding being approved.
+
+#### Impact / Alignment Rating
+
+5
+
+### Feasibility Note
+
+It is clear that the Idea Submitter knows what he is talking about. As background I have a Masters in Social Science plus a law degree so have some experience of the importance of standards and how it is important to apply standards of auditing equally to allow system participants to benefit from funding and to feel that they have been treated fairly. I have assisted many teams to apply for research grants in the past. The proposal sets out a clear plan of activity on how to implement the proposal. This is impressive. That said it will be challenging.
+
+### Feasibility Rating
+
+5
+
+#### Auditability Note
+
+Given the clear timetable of activities both in terms of the activities which are described and the timeliness it will be possible to understand if a deliverable is achieved by a given date. The overall success will be auditable via an assessment of the outputs. I expect this will be possible to do as the stated goals will either be achieved, partly achieved or not achieved and this will be possible to review, provided that the access to information on project outcomes is made available.
+
+#### Auditability Rating
+
+5
 
 
 
