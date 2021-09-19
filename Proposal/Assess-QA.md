@@ -122,3 +122,19 @@ This project also has some risks on the regard of the acceptance of the standari
 #### Auditability Rating
 
 4
+
+### z_assessor_318
+
+
+#### Impact / Alignment Note
+
+"The proposal suggests an approach which is likely to benefit the current challenge goals. The proposal describes how continuous integration will help make funded proposals more efficient in reporting their goals.  
+
+My main issue with the proposal is that it does not clearly indicate the limitations, or how it will overcome the limitations, of the method that is proposed. As a software developer, I can see very well how continuous integration would streamline reporting on metrics like number of commits and features implemented, but i'm having trouble imagining other metrics, such as user feedback or application usage, as they are not built-in to the code in the repository. However, it is not necessarily be a problem, as the goal is not to solve all reporting issues, I just wish the limitations were a bit more clearly explained."
+
+
+#### Impact / Alignment Rating
+
+4
+
+
